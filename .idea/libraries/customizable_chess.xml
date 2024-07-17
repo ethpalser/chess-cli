@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="customizable-chess">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../customizable-chess/out/artifacts/customizable_chess_jar/customizable-chess.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

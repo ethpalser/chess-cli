@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="customizable-console-menu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../customizable-console-menu/out/artifacts/customizable_console_menu_jar/customizable-console-menu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
